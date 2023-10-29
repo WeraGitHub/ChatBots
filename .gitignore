@@ -40,3 +40,6 @@ ENV/
 
 # Ignore VS Code specific files
 .vscode/
+
+# Ignore API Key file
+*/.streamlit/secrets.toml
